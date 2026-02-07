@@ -1,1 +1,1 @@
-Live link : updating... in 5 min
+Live link : https://cursorlandingpracting.netlify.app/
